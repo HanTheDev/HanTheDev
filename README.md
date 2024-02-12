@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HanTheDev
-- 👀 I’m interested in maybe Software Engineer
-- 🌱 I’m currently learning about Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ML/AI/Data, even Software Engineering itself
+- 🌱 I’m currently learning about Web Development and still learn and learn on Machine Learning and AI itself
+- 💞️ I’m looking to collaborate with the expert so that I can growth myself and help the others
 - 📫 How to reach me ...
 
 <!---
